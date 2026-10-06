@@ -1,0 +1,22 @@
+# Visual Studio 살정 및 캐시 파일
+[Oo]bj/
+[Bb]in/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 빌드 결과물 및 패키지
+[Dd]ebug/
+[Rr]elease/
+x86/
+x64/
+build/
+bld/
+packages/
+*.nupkg
+
+# 사용자별 설정 및 로그
+*.log
+*.tmp
